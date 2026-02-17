@@ -3,6 +3,7 @@
 An autonomous agent trained to play the original **Super Mario Bros (NES)** using Deep Reinforcement Learning. Unlike standard implementations, this project features a custom-built wrapper stack to process raw game frames and a patched environment pipeline to run legacy 2018 libraries on modern hardware.
 
 ## 📺 Demo: The "Brain View"
+https://github.com/user-attachments/assets/a870173c-ca71-434a-908d-d1ef86d306f0
 
 
 *Note: This video visualizes exactly what the AI sees—a grayscale, 84x84 pixel stream. By removing color and stacking 4 frames, the agent learns to perceive motion and velocity without unnecessary data overhead.*
